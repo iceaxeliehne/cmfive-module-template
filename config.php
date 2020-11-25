@@ -1,6 +1,6 @@
 <?php
 
-Config::set('template', [
+Config::set('newTemplate', [
     'active' => true,
     'path' => 'modules',
     'topmenu' => true,
