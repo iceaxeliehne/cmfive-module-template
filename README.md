@@ -1,0 +1,1 @@
+# cmfive-module-template
